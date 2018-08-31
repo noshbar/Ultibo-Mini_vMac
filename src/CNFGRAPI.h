@@ -19,13 +19,13 @@
 #define VarFullScreen 1
 #define WantInitFullScreen 1
 #define MayFullScreen 1
-#define MayNotFullScreen 1
-#define WantInitMagnify 0
+#define MayNotFullScreen 0
+#define WantInitMagnify 1
 #define EnableMagnify 1
 #define MyWindowScale 2
 #define WantInitRunInBackground 0
 #define WantInitNotAutoSlow 0
-#define WantInitSpeedValue 1
+#define WantInitSpeedValue -1
 #define NeedRequestInsertDisk 0
 #define NeedDoMoreCommandsMsg 0
 #define NeedDoAboutMsg 0
@@ -37,6 +37,6 @@
 #define NeedIntlChars 0
 #define kStrAppName "Mini vMac"
 #define kAppVariationStr "minivmac-3.3.3-lx64"
-#define kStrCopyrightYear "2013"
-#define kMaintainerName "unknown"
+#define kStrCopyrightYear "2018"
+#define kMaintainerName "noshbar"
 #define kStrHomePage "http://minivmac.sourceforge.net/"

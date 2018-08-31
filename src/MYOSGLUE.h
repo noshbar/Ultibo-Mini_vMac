@@ -399,23 +399,4 @@ EXPORTPROC MyEvtQOutDone(void);
 #define MKC_ScrollLock 0x6B
 #define MKC_Pause 0x71
 
-#include <SDL2/SDL.h>
-#include <SDL2/SDL_keycode.h>
-
-/* SDL2 window */
-SDL_Window *window;
-
-/* SDL2 renderer */
-SDL_Renderer *renderer;
-
-/* SDL2 texture */
-SDL_Texture *texture;
-
-/* SDL2 blitting rects for hw scaling 
- * ratio correction using SDL_RenderCopy() */
-SDL_Rect src_rect;
-SDL_Rect dst_rect;
-
-/* SDL2 physical screen dimensions */
-int displayWidth;
-int displayHeight;
+#include "pal.h"
