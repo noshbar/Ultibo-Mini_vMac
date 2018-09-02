@@ -1,3 +1,5 @@
+[![Baremetal Mini vMac](https://img.youtube.com/vi/7l2lzfapa88/0.jpg)](https://www.youtube.com/watch?v=7l2lzfapa88 "Bare metal Mini vMac")
+
 # Bare metal Macintosh Plus emulator for Raspberry Pi
 
 To quote the Mini vMac [homepage](https://www.gryphel.com/c/minivmac/): `The Mini vMac emulator collection allows modern computers to run software made for early Macintosh computers, the computers that Apple sold from 1984 to 1996 based upon Motorola's 680x0 microprocessors. Mini vMac is part of the Gryphel Project.`
